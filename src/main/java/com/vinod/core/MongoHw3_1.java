@@ -11,7 +11,7 @@ import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
 import com.mongodb.WriteResult;
 
-public class MongoAgg {
+public class MongoHw3_1 {
 
 	public static void main(String[] args) {
 		MongoClient mongo;
